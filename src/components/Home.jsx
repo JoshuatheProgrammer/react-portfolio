@@ -9,14 +9,14 @@ const Home = () => {
             <div className="flex flex-col justify-center h-full">
                 <h2 className="text-4xl sm:text-7xl font-bold text-white">I Am An Full Stack Developer</h2>
                 <p className="text-gray-500 py-4 max-w-md">I First Started Programming In 2015, 7 Years Later I Am Still Programming...</p>
-                <div>
+                {/* <div>
                     <button  className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-transparent">
                         About
                         <span className="group-hover:rotate-90 duration-300">
                             <MdArrowRight size={35} className="ml-1" />
                         </span>
                     </button>
-                </div>
+                </div> */}
             </div>
         </div>
     </div>

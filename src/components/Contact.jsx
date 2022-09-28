@@ -1,4 +1,5 @@
 import React from 'react'
+import { MdArrowRight } from 'react-icons/md'
 
 const Contact = () => {
   return (
@@ -14,7 +15,12 @@ const Contact = () => {
                     <input type="text" name="name" placeholder='Enter Your Name' className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
                     <input type="text" name="email" placeholder='Enter Your Email' className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none" />
                     <textarea name="message=" rows="10" placeholder='Please Type Your Message!' className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"></textarea>
-                    <button className="text-white bg-gradient-to-b from-cyan-400 to-violet-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">Get In Contact With Me</button>
+                    <button className="group text-white bg-transparent px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
+                        Get In Contact With Me
+                        <span className="group-hover:rotate-90 duration-300">
+                        <MdArrowRight size={35} className="ml-1" />
+                        </span>
+                        </button>
                 </form>
             </div>
         </div>
