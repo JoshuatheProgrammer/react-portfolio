@@ -1,4 +1,4 @@
-= Start Of Site =
+#Start Of Site#
 
 Please Note This Site Is Not Done But It Is Done Styling Wise!
 
@@ -6,7 +6,7 @@ I Just Need To Add Project Images / An About Me And a Few More Things!
 
 -----------------------------------------------------------------
 
-= First Updates =
+#First Updates#
 
 9/28/22
 Added Project Images [ Under Portfolio Section ]
@@ -18,7 +18,7 @@ Changed Button color to transparent to look better
 
 -----------------------------------------------------------------
 
-= Second Update =
+#Second Update#
 
 10/4/2022
 
