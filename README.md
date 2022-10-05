@@ -11,3 +11,10 @@ Changed Background Color
 Changed Navbar color to transparent to look better
 Changed Button color to transparent to look better
 
+
+10/4/2022
+
+Changed All Of The Text [Home, About, Portfolio, Experience, Contact]
+
+Made The Contact Form Textboxes pop out as you hover over them
+
