@@ -2,6 +2,7 @@ Please Note This Site Is Not Done But It Is Done Styling Wise!
 
 I Just Need To Add Project Images / An About Me And a Few More Things!
 
+-----------------------------------------------------------------
 
 9/28/22
 Added Project Images [ Under Portfolio Section ]
@@ -11,6 +12,7 @@ Changed Background Color
 Changed Navbar color to transparent to look better
 Changed Button color to transparent to look better
 
+-----------------------------------------------------------------
 
 10/4/2022
 
