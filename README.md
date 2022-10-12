@@ -26,3 +26,8 @@ Changed All Of The Text [Home, About, Portfolio, Experience, Contact]
 
 Made The Contact Form Textboxes pop out as you hover over them
 
+###################################################################
+About Me Section Is Getting Re-Done In The Next Couple Updates
+Same With The Home Section.
+And The Single Portfolio Image Needs To Be Fixed.
+###################################################################
